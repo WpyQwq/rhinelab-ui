@@ -1,0 +1,7 @@
+{
+  "root": "E:\\归档",
+  "port": 43117,
+  "exclude": [],
+  "indexFile": "public/archive-index.json",
+  "logFile": "00_索引\\操作日志.jsonl"
+}
